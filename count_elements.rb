@@ -1,6 +1,7 @@
 def count_elements(array)
   hash = {}
   array.collect do |animals|
-    if hash.has_key?
+    if hash.has_key(animals)
+      
 end
  
