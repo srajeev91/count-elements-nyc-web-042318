@@ -8,6 +8,5 @@ def count_elements(array)
     end
   end
   hash
-      
 end
  
